@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/carousel-demo/static/css/main.4a4137e4.chunk.css",
+    "main.js": "/carousel-demo/static/js/main.694b6675.chunk.js",
+    "main.js.map": "/carousel-demo/static/js/main.694b6675.chunk.js.map",
+    "runtime-main.js": "/carousel-demo/static/js/runtime-main.fab47b20.js",
+    "runtime-main.js.map": "/carousel-demo/static/js/runtime-main.fab47b20.js.map",
+    "static/js/2.55bc234d.chunk.js": "/carousel-demo/static/js/2.55bc234d.chunk.js",
+    "static/js/2.55bc234d.chunk.js.map": "/carousel-demo/static/js/2.55bc234d.chunk.js.map",
+    "static/js/3.1f339f86.chunk.js": "/carousel-demo/static/js/3.1f339f86.chunk.js",
+    "static/js/3.1f339f86.chunk.js.map": "/carousel-demo/static/js/3.1f339f86.chunk.js.map",
+    "index.html": "/carousel-demo/index.html",
+    "static/css/main.4a4137e4.chunk.css.map": "/carousel-demo/static/css/main.4a4137e4.chunk.css.map",
+    "static/js/2.55bc234d.chunk.js.LICENSE.txt": "/carousel-demo/static/js/2.55bc234d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fab47b20.js",
+    "static/js/2.55bc234d.chunk.js",
+    "static/css/main.4a4137e4.chunk.css",
+    "static/js/main.694b6675.chunk.js"
+  ]
+}
