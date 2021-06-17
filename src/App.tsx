@@ -15,7 +15,7 @@ const App: React.FC = () => {
     const makeRequest = async () => {
       const resUrl = useCars
         ? "https://frontend-assessment-service.vcomm.io/cars"
-        : "http://frontend-assessment-service.vcomm.io/";
+        : "https://frontend-assessment-service.vcomm.io/";
       let res;
       try {
         res = await axios.get(resUrl);
