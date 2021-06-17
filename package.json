@@ -1,5 +1,6 @@
 {
   "name": "carousel-exercise",
+  "homepage": "https://maritzuhcom.github.io/carousel-demo/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,7 +24,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "prettier": "prettier --write ."
+    "prettier": "prettier --write .",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -45,6 +48,7 @@
   },
   "devDependencies": {
     "@types/styled-components": "^5.1.10",
+    "gh-pages": "^3.2.1",
     "prettier": "2.3.1"
   }
 }
