@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/carousel-demo/static/css/main.4a4137e4.chunk.css",
-    "main.js": "/carousel-demo/static/js/main.694b6675.chunk.js",
-    "main.js.map": "/carousel-demo/static/js/main.694b6675.chunk.js.map",
+    "main.js": "/carousel-demo/static/js/main.01b3095a.chunk.js",
+    "main.js.map": "/carousel-demo/static/js/main.01b3095a.chunk.js.map",
     "runtime-main.js": "/carousel-demo/static/js/runtime-main.fab47b20.js",
     "runtime-main.js.map": "/carousel-demo/static/js/runtime-main.fab47b20.js.map",
     "static/js/2.55bc234d.chunk.js": "/carousel-demo/static/js/2.55bc234d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fab47b20.js",
     "static/js/2.55bc234d.chunk.js",
     "static/css/main.4a4137e4.chunk.css",
-    "static/js/main.694b6675.chunk.js"
+    "static/js/main.01b3095a.chunk.js"
   ]
 }
